@@ -31,3 +31,13 @@ After building and running, follow the on-screen instructions to play Stratego.
 * `apply [index]` : moves the selected piece with the selected movement
 * `quit` : exits the game
 
+## Disclaimer
+This repository was created as part of coursework. Some files (such as starter code, assignments, resources) were provided by the instructor or belong to third parties. All rights to these materials remain with their original authors and/or copyright holders.
+
+My own contributions in this repository are shared under the MIT License. Files provided by instructors, external authors, or third parties are **not** covered by this license.
+
+### Instructor-provided materials
+
+This repository specifically includes the following materials provided by the instructor:
+
+* **Model.java** – interface of the game model
